@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "postId": "22306961-6862-4f81-b0d8-df881ba011a0",
+      "locale": "ko",
+      "textHash": "3e24f380d10fd1c392eb0287304cb23300b66e4e0df002c0f3767871053b0a16",
+      "fullHash": "3e24f380d10fd1c392eb0287304cb23300b66e4e0df002c0f3767871053b0a16",
+      "voice": "F1",
+      "version": "supertonic3-v1",
+      "previewPath": "content/audio/9971e860d0ff34f4d910119f7a9c31d6e73ae1d54f0bcae57dad02b8a55ad2d7.mp3",
+      "fullPath": "content/audio/08148dc6d3916aca1e071b5208ba6b8df8699064a34e1ce7aea84e7a7d12e1e8.mp3"
+    }
+  ]
+}
